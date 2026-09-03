@@ -18,7 +18,9 @@
 * Informatik
 * Mathematik
 
-
+```py
+print('Ein Code Beispiel')
+```
 
 
 
