@@ -21,6 +21,8 @@
 ```py
 print('Ein Code Beispiel')
 ```
-
+```py
+print('Hello World')
+```
 
 
